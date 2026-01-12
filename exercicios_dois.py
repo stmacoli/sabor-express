@@ -35,7 +35,7 @@ usuario = input('Insira seu ID: ')
 senha = input('Insira sua Senha: ')
 
 def validador(usuario, senha):
-    if usuario == 'McLovin' and senha == 'longc':
+    if usuario == 'Goku' and senha == 'chichis2':
         print('Seja Bem-vindo Sr. McLovin')
     else :
         print('Usuarios ou Senha inválidos, tente novamente')
